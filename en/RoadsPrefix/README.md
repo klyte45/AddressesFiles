@@ -58,7 +58,7 @@
 * `[X,Y]` from X (inclusive) to Y (excluding Y) meters wide. When X or Y is omitted, X = 0 and Y = 999.
 * `[Z]` exactly Z meters wide.
 
-* When omitted, it will serve any size (equivalent to "** [,] **") *
+* When omitted, it will serve any size (equivalent to `[,]`) *
 
 ## Arguments available for nomenclature
 Use these numbers in braces (`{X}`) to reference the following variables:
