@@ -58,13 +58,13 @@
 * `[X,Y]` from X (inclusive) to Y (excluding Y) meters wide. When X or Y is omitted, X = 0 and Y = 999.
 * `[Z]` exactly Z meters wide.
 
-* When omitted, it will serve any size (equivalent to `[,]`) *
+* When omitted, it will serve any size (equivalent to `[,]`)
 
 ## Arguments available for nomenclature
 Use these numbers in braces (`{X}`) to reference the following variables:
 
 * 0 = Name generated from name files (default for streets and highways)
-* 1 = destination road name ** (implies the entry applies only for one-way tracks!) **
-* 2 = source of road name ** (implies the entry applies only for one-way tracks!) **
-* 3 = Mileage track of origin, in kilometers and as entire value ** (implies the entry applies only for one-way tracks!) **
-* 4 = Mileage track of origin, in kilometers and with one decimal place ** (implies the entry applies only for one-way tracks!) **
+* 1 = destination road name **(implies the entry applies only for one-way tracks!)**
+* 2 = source of road name **(implies the entry applies only for one-way tracks!)**
+* 3 = Mileage track of origin, in kilometers and as entire value **(implies the entry applies only for one-way tracks!)**
+* 4 = Mileage track of origin, in kilometers and with one decimal place **(implies the entry applies only for one-way tracks!)**
