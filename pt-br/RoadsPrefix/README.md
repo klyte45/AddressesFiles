@@ -58,7 +58,7 @@
 * `[X,Y]` de X (inclusive) a Y (excluindo Y) metros de largura. Quando X ou Y é omitido, X=0 e Y=999.
 * `[Z]` exatamente Z metros de largura.
 
-*Quando omitido, servirá para qualquer quantidade de faixas (equivalente a `[,]`)*
+*Quando omitido, servirá para qualquer largura (equivalente a `[,]`)*
 
 ## Argumentos disponíveis para nomenclatura
 Use estes números entre chaves (`{X}`) para referenciar as seguintes variáveis:
