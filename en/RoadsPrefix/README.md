@@ -61,10 +61,15 @@
 *When omitted, it will serve any size (equivalent to `[,]`)*
 
 ## Arguments available for nomenclature
-Use these numbers in braces (`{X}`) to reference the following variables:
+Use these strings to reference the following variables on the format:
 
-* 0 = Name generated from name files (default for streets and highways)
-* 1 = destination road name **(implies the entry applies only for one-way tracks!)**
-* 2 = source of road name **(implies the entry applies only for one-way tracks!)**
-* 3 = Mileage track of origin, in kilometers and as entire value **(implies the entry applies only for one-way tracks!)**
-* 4 = Mileage track of origin, in kilometers and with one decimal place **(implies the entry applies only for one-way tracks!)**
+Id | Description | Since version | Observation
+---| ----------- | ------------- | -----------
+`{0}` | Name generated from name files (default for streets and highways)| 1.0 | -     
+`{1}`| Destination road name | 1.0 | **Implies the entry applies only for one-way tracks!**
+`{2}` | Source of road name  | 1.0 | **Implies the entry applies only for one-way tracks!**
+`{3}` | Mileage track of origin, in kilometers and as integer value  | 1.0 | **Implies the entry applies only for one-way tracks!**
+`{4}` | Mileage track of origin, in kilometers and with one decimal place  | 1.0 | **Implies the entry applies only for one-way tracks!**
+`{5}` | Source district/neighbor city  | 1.1 | -    
+ `{6}` | Target district/neighbor city  | 1.1 |  -    
+ `{7}` | Cardinal direction of the road (8 directions) |1.1| **Implies the entry applies only for one-way tracks!**
