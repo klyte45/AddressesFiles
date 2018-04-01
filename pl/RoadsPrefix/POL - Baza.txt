@@ -1,0 +1,10 @@
+hw=Trasa {0}
+hW=Autostrada {0}
+BH=Most {0}
+TH=Tunel {0}
+D=Tama {0}
+GH[,20]=Ul. {0}
+GH[20,]=Al. {0}
+f=Węzeł {3}
+i=Węzeł {3}
+e=Węzeł {3}
