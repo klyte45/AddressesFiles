@@ -1,0 +1,13 @@
+GH[,10]=ruelle {0}
+GHW[10,20]=rue {0}
+GHw[10,20]=chemin {0}
+GH[20,]=avenue {0}
+Gh(2)=route {0}
+Gh(3,)=autoroute {0}
+BH=pont {0}
+Bh=autoroute {0}
+T=tunnel {0}
+D=digue {0}
+f=sortie {3}
+i=accès à {1}
+e=accès à {1}
