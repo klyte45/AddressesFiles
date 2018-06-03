@@ -68,7 +68,7 @@ Id | Description | Depuis la version | Observation
 `{0}` | Nom généré à partir des fichiers noms (par défaut pour les rues et les autoroutes)| 1.0 | -     
 `{1}`| Nom de la route de destination | 1.0 | **Implique que l'entrée s'applique uniquement uax voies à sens unique !**
 `{2}` | Source du nom de la route  | 1.0 | **Implique que l'entrée s'applique uniquement aux voies à sens unique !**
-`{3}` | Voie kilométriqued'origine, en km et en valeur entière  | 1.0 | **Implique que l'entrée s'applique uniquement aux voies à sens unique !**
+`{3}` | Voie kilométrique d'origine, en km et en valeur entière  | 1.0 | **Implique que l'entrée s'applique uniquement aux voies à sens unique !**
 `{4}` | Km d'origine, en km et avec une décimale  | 1.0 | **Implique que l'entrée s'applique uniquement aux voies à sens unique !**
 `{5}` | Source district / ville voisine  | 1.1 | -    
  `{6}` | Quartier ciblé / ville voisine  | 1.1 |  -    
