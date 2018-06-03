@@ -65,7 +65,7 @@ Utilisez ces chaînes pour référencer les variables suivantes pour le format:
 
 Id | Description | Depuis la version | Observation
 ---| ----------- | ------------- | -----------
-`{0}` | Npm généré à partir des fichiers noms (par défaut pour les rues et les autoroutes)| 1.0 | -     
+`{0}` | Nom généré à partir des fichiers noms (par défaut pour les rues et les autoroutes)| 1.0 | -     
 `{1}`| Nom de la route de destination | 1.0 | **Implique que l'entrée s'applique uniquement uax voies à sens unique !**
 `{2}` | Source du nom de la route  | 1.0 | **Implique que l'entrée s'applique uniquement aux voies à sens unique !**
 `{3}` | Voie kilométriqued'origine, en km et en valeur entière  | 1.0 | **Implique que l'entrée s'applique uniquement aux voies à sens unique !**
