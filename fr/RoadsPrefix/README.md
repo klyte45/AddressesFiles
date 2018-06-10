@@ -1,75 +1,75 @@
-# Road prefix syntax
+# Syntaxte du préfixe des routes
 
-## Track directions
+## Direction de la voie
 
-* `w` One-way
-* `W` Two-way
+* `w` Un sens
+* `W` Dans les deux sens
 
-*When omitted, it will serve any of the types*
+*Lorsqu'il est omis, il sera utilisé pour n'importe quel type de sens*
 
-## Symmetry of the pathway
-*applicable only when two-way track*
+## Symmétrie de la voie
+*Applicable seulement lorsque la voie est à double sens*
 
-* `s` Symmetric
-* `S` Asymetric
+* `s` Symmétrique
+* `S` Asymétrique
 
-*When omitted, it will serve any of the types*
+*Lorsqu'il est omis, il sera utilisé pour n'importe quel type de sens*
 
-## Highway indicator
+## Indicateur d'autoroute
 
-* `h` Highway only
-* `H` Urban track types only
+* `h` Seulement pour l'autoroute
+* `H` Seulement pour les voies urbaines
 
-*When omitted, it will serve any of the types*
+*Lorsqu'il est omis, il sera utilisé pour n'importe quel type de voie*
 
-## Road exits
+## Sortie de route
 
-* `f` Exit starting out on a highway bound for another route smaller or urban
-* `i` Exit ending on a highway originating from a minor highway
-* `e` Exit connecting roads of equal size
+* `f` Sortie d'une autoroute vers une route urbaine ou plus petite
+* `i` Sortie se terminant sur une autoroute provenant d'une route secondaire 
+* `e` Sortie de route/voie en raccordement avec une autre route/voie de même taille
 
-*When omitted, it will serve any of the types*
+*Lorsqu'il est omis, il sera utilisé pour n'importe quel type de route/voie*
 
-**NOTE:** Only applies to one-way highways (implies `hw` also, even if omitted or placed in reverse).
+**NOTE:** Ne s'applique qu'aux autoroutes à sens unique (implique également `hw` même s'il est omis ou placé à l'envers).
 
-### Route size comparison order
-* Continuous path (one that has continuation has priority)
-* It is a highway (urban roads have no priority)
-* Number of tracks (the higher, the more priority)
-* Track width (the higher, the more priority)
+### ordre de comparaison des tailles de route
+* Chemin continu (la priorité à celui qui continu)
+* C'est une autoroute (les routes urbaines n'ont pas de priorité)
+* Nombre de voies (plus il est élevé, plus il a la priorité)
+* Largeur de la voie (plus il est élevé, plus il a la priorité)
 
-## Type of track
-* `G` Pathways at ground level
-* `B` Elevated paths and bridges
+## Type de voie
+* `G` Voies au niveau du sol
+* `B` Voies et ponts élevés
 * `T` Tunnels
-* `D` Dams
+* `D` Quais (ou barrages)
 
-*When omitted, it will serve any of the types*
+*Lorsqu'il est omis, il sera utilisé pour n'importe quel type de route/voie*
 
-## Lane count
+## Nombre de voies
 
-* `(X,Y)` from X (inclusive) to Y (excluding Y) ranges. When X or Y is omitted, X = 0 and Y = 255.
-* `(Z)` exactly Z lanes.
+* `(X,Y)` de X (inclus) à Y (sauf Y). Quand X ou Y est omis, X = 0 et Y = 255.
+* `(Z)` exactement Z voies.
 
-*When omitted, it will serve any number of lanes (equivalent to `(,)`)*
+*Lorsqu'il est omis, il prendra un nombre quelconque de voies (équivalent à `(,)`)*
 
-## Track Width
+## Largeur de voie
 
-* `[X,Y]` from X (inclusive) to Y (excluding Y) meters wide. When X or Y is omitted, X = 0 and Y = 999.
-* `[Z]` exactly Z meters wide.
+* `[X,Y]` de X (inclus) à Y (sauf Y) mètres de large. Quand X ou Y est omis, X = 0 et Y = 999.
+* `[Z]` exactement Z mètres de large.
 
-*When omitted, it will serve any size (equivalent to `[,]`)*
+*Lorsqu'il est omis, il prendra n'importe quelle largeur de voie (équivalent à `[,]`)*
 
-## Arguments available for nomenclature
-Use these strings to reference the following variables on the format:
+## Arguments disponibles pour la nomenclature
+Utilisez ces chaînes pour référencer les variables suivantes pour le format:
 
-Id | Description | Since version | Observation
+Id | Description | Depuis la version | Observation
 ---| ----------- | ------------- | -----------
-`{0}` | Name generated from name files (default for streets and highways)| 1.0 | -     
-`{1}`| Destination road name | 1.0 | **Implies the entry applies only for one-way tracks!**
-`{2}` | Source of road name  | 1.0 | **Implies the entry applies only for one-way tracks!**
-`{3}` | Mileage track of origin, in kilometers and as integer value  | 1.0 | **Implies the entry applies only for one-way tracks!**
-`{4}` | Mileage track of origin, in kilometers and with one decimal place  | 1.0 | **Implies the entry applies only for one-way tracks!**
-`{5}` | Source district/neighbor city  | 1.1 | -    
- `{6}` | Target district/neighbor city  | 1.1 |  -    
- `{7}` | Cardinal direction of the road (8 directions) |1.1| **Implies the entry applies only for one-way tracks!**
+`{0}` | Nom généré à partir des fichiers noms (par défaut pour les rues et les autoroutes)| 1.0 | -     
+`{1}`| Nom de la route de destination | 1.0 | **Implique que l'entrée s'applique uniquement uax voies à sens unique !**
+`{2}` | Source du nom de la route  | 1.0 | **Implique que l'entrée s'applique uniquement aux voies à sens unique !**
+`{3}` | Voie kilométrique d'origine, en km et en valeur entière  | 1.0 | **Implique que l'entrée s'applique uniquement aux voies à sens unique !**
+`{4}` | Km d'origine, en km et avec une décimale  | 1.0 | **Implique que l'entrée s'applique uniquement aux voies à sens unique !**
+`{5}` | Source district / ville voisine  | 1.1 | -    
+ `{6}` | Quartier ciblé / ville voisine  | 1.1 |  -    
+ `{7}` | Direction cardinale de la route (8 directionss) |1.1| **Implique que l'entrée s'applique uniquement aux voies à sens unique !**
