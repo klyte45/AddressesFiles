@@ -1,0 +1,14 @@
+GH[,10]=Gasse {0}
+GHW[10,20]=Straße {0}
+GHw[10,20]=Weg {0}
+GHW[20,]=Allee {0}
+GHw[20,]=Chaussee {0}
+Gh(2)=Schnellstraße {0}
+Gh(3,)=Autobahn {0}
+BH=Brücke {0}
+Bh=Autobahn {0}
+T=Tunnel {0}
+D=Damm {0}
+f=Abfahrt {3}
+i=Richtung {1}
+e=Richtung {1}
