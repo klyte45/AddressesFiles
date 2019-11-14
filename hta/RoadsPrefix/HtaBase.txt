@@ -1,6 +1,6 @@
 wWHGB = Mete {0}
 wWhHGB = Wonpwen {0}
-wWhHGBT = Ringback {0}
+wWhHGBT = Wout bag {0}
 WGB = Chemen {0}
 WG = Track {0}
 WGBT = Chemen sik {0}
