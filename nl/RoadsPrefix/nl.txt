@@ -1,0 +1,14 @@
+BH={0}brug
+Bh(2,)={0}brug
+TH={0}tunnel 
+Th(2,)={0}tunnel
+D={0}dam
+GH[,10]={0}pad
+GH[,20]={0}straat
+GH[20,]={0}laan
+GhW(2,)=Autoweg {0}
+Ghw(2)=Rijksweg {0}
+i(1,3)=Richting {2}
+f(1,3)=Afrit {3}
+e(1,3)=Afrit {3} richting {2}
+Ghw(2,)=Rijksweg {5}-{6}, {7}
