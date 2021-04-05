@@ -31,10 +31,6 @@
 *When omitted, it will serve any of the types*
 **NOTE:** Only applies to one-way highways (implies `hw` also, even if omitted or placed in reverse).
 
-## Highway type (since 3.0)
-* `p` Is assigned to a Highway Type register
-* `P` Isn't assigned to a Higway Type register
-
 ### Route size comparison order
 * Continuous path (one that has continuation has priority)
 * It is a highway (urban roads have no priority)
@@ -62,6 +58,11 @@
 * `[Z]` exactly Z meters wide.
 
 *When omitted, it will serve any size (equivalent to `[,]`)*
+
+## Highway type (since 3.0)
+* `p` Is assigned to a Highway Type register
+* `P` Isn't assigned to a Higway Type register
+
 
 ## Arguments available for nomenclature
 Use these strings to reference the following variables on the format:
