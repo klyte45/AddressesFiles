@@ -78,6 +78,6 @@ Id | Description | Since version | Observation
 `{5}` | Source district/neighbor city  | 1.1 | -    
  `{6}` | Target district/neighbor city  | 1.1 |  -    
  `{7}` | Cardinal direction of the road (8 directions) |1.1| **Implies the entry applies only for one-way tracks!**
- `{8}` | Long name of Highway Type  | 3.0 |**Implies `p`**
+ `{8}` | Long code of Highway Type  | 3.0 |**Implies `p`**
 `{9}` | Forced name of Highway Type  | 3.0 |**Implies `p`**
-`{10}`| Short name of Highway Type | 3.0 |**Implies `p`**
+`{10}`| Short code of Highway Type | 3.0 |**Implies `p`**
