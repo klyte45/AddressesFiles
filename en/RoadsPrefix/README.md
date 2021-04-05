@@ -29,6 +29,7 @@
 * `e` Exit connecting roads of equal size
 
 *When omitted, it will serve any of the types*
+
 **NOTE:** Only applies to one-way highways (implies `hw` also, even if omitted or placed in reverse).
 
 ### Route size comparison order
