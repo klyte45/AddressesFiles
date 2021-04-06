@@ -76,8 +76,8 @@ Id | Description | Since version | Observation
 `{3}` | Mileage track of origin, in kilometers and as integer value  | 1.0 | **Implies the entry applies only for one-way tracks!**
 `{4}` | Mileage track of origin, in kilometers and with one decimal place  | 1.0 | **Implies the entry applies only for one-way tracks!**
 `{5}` | Source district/neighbor city  | 1.1 | -    
- `{6}` | Target district/neighbor city  | 1.1 |  -    
- `{7}` | Cardinal direction of the road (8 directions) |1.1| **Implies the entry applies only for one-way tracks!**
- `{8}` | Long code of Highway Type  | 3.0 |**Implies `p`**
-`{9}` | Forced name of Highway Type  | 3.0 |**Implies `p`**
+`{6}` | Target district/neighbor city  | 1.1 |  -    
+`{7}` | Cardinal direction of the road (8 directions) |1.1| **Implies the entry applies only for one-way tracks!**
+`{8}` | Long code of Highway Type  | 3.0 |**Implies `p`**
+`{9}` | Forced name of Highway Type  | 3.0 |Will be same as `{0}` if no forced configuration set at this seed
 `{10}`| Short code of Highway Type | 3.0 |**Implies `p`**
