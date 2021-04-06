@@ -64,6 +64,10 @@
 * `p` Is assigned to a Highway Type register
 * `P` Isn't assigned to a Higway Type register
 
+## Fixed name at seed (since 3.0)
+* `n` Has fixed name
+* `N` Don't have fixed name
+
 
 ## Arguments available for nomenclature
 Use these strings to reference the following variables on the format:
@@ -79,5 +83,5 @@ Id | Description | Since version | Observation
 `{6}` | Target district/neighbor city  | 1.1 |  -    
 `{7}` | Cardinal direction of the road (8 directions) |1.1| **Implies the entry applies only for one-way tracks!**
 `{8}` | Long code of Highway Type  | 3.0 |**Implies `p`**
-`{9}` | Forced name of Highway Type  | 3.0 |Will be same as `{0}` if no forced configuration set at this seed
+`{9}` | Forced name of Highway Type  | 3.0 |**Implies `n`**
 `{10}`| Short code of Highway Type | 3.0 |**Implies `p`**
