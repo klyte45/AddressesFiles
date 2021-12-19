@@ -1,0 +1,16 @@
+H(2,4)=Via {0}
+Wh(2,3)=Via {0}
+wH(1,2)=Vicolo {0}
+H(4,6)=Viale {0}
+H(6,7)=Corso {0}
+hfi=Uscita {3}
+wh=A1
+wh=A2
+wh=A3
+wh=A4
+wh=A5
+wh=A6
+wh=A7
+wh=A8
+wh=A9
+wh=A10
