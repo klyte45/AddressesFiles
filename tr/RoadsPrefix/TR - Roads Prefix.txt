@@ -1,0 +1,15 @@
+HGBT = {0} Caddesi
+HGBT = {0} Bulvarı
+HGB = {0} Sokağı
+T = {0} Tüneli
+WhB = {0} Viyadüğü
+G = {0} Yolu
+HG = {0} Yönü
+B = {0} Köprüsü
+HGB = {0} Geçidi
+WG = {0} Asfaltı
+D = {0} Barajı
+hGBTp = {0} Otoyolu
+hGBTp = {0} Otobanı
+hGBTp = {0} Karayolu
+GBT = {0} Çevre Yolu
