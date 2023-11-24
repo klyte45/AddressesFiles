@@ -12,7 +12,12 @@ You can also add a new language if you want.
 
 ## Putting files in the game
 
+### Using CS1
 The same folder structure found in each language folder is localizated at *Klyte_Addresses* folder inside the game installation folder.
+
+### Using CS2
+You can simply download/clone this whole repository inside the files folder (located at `<CS2 App data folder>\Klyte45Mods\Addresses\SimpleNameFiles`). All files will appear grouped in the game interface.
+You can select any file for any generator role ingame
 
 ## Names files
 * Each name file must contain only a name per line.
