@@ -1,0 +1,741 @@
+Allée de la Chêneraie
+Allée de la Frênaie
+Allée de la Hêtraie
+Allée de la Peupleraie
+Allée de l'Aulnaie
+Autoroute Bruxelles-Namur E411
+Av. Notre-Dame de Basse-Wavre
+Avenue Abbaye d'Affligem
+Avenue Arthur Masson
+Avenue Auguste Mattagne
+Avenue Australe
+Avenue Balzac
+Avenue Baudelaire
+Avenue Bel Horizon
+Avenue Bohy
+Avenue Bois Becquet
+Avenue Bois Sohet
+Avenue Boréale
+Avenue Bruyère Saint-Job
+Avenue Cécile Mersch
+Avenue Centremont
+Avenue Chapelle Robijns
+Avenue Charles le Téméraire
+Avenue Charles Plisnier
+Avenue Charles-Quint
+Avenue Chevalier Jehan
+Avenue Comte de Namur
+Avenue Constantin Meunier
+Avenue Daudet
+Avenue David
+Avenue de Chérémont
+Avenue de Doiceau
+Avenue de Froidmont
+Avenue de la Belle Voie
+Avenue de la Bourse
+Avenue de la Bride
+Avenue de la Briqueterie
+Avenue de la Brise
+Avenue de la Calèche
+Avenue de la Cigogne
+Avenue de la Comète de Halley
+Avenue de la Croisée
+Avenue de la Diligence
+Avenue de la Forêt
+Avenue de la Frondaison
+Avenue de la Galaxie
+Avenue de la Gare
+Avenue de la Meuse
+Avenue de la Mousson
+Avenue de la Planchette
+Avenue de la Résistance
+Avenue de la Sablière
+Avenue de la Tenderie
+Avenue de la Tramontane
+Avenue de la Warche
+Avenue de l'Aisance
+Avenue de l'Aquilon
+Avenue de l'Aube
+Avenue de l'Eglantine
+Avenue de l'Eperon
+Avenue de l'Equinoxe
+Avenue de l'Etang
+Avenue de l'Etrier
+Avenue de Mérode
+Avenue de Nivelles
+Avenue Decuyper
+Avenue Denis Diderot
+Avenue des Acacias
+Avenue des Alizés
+Avenue des Alouettes
+Avenue des Aubépines
+Avenue des Avoines
+Avenue des Azalées
+Avenue des Blés
+Avenue des Bouvreuils
+Avenue des Camélias
+Avenue des Chênes
+Avenue des Déportés
+Avenue des Deux Dîmes
+Avenue des Ducs de Bourgogne
+Avenue des Faisans
+Avenue des Fauvettes
+Avenue des Fougères
+Avenue des Frères Mabille
+Avenue des Hêtres
+Avenue des Hortensias
+Avenue des Huit Bonniers
+Avenue des Jonquilles
+Avenue des Lilas
+Avenue des Magnolias
+Avenue des Mésanges
+Avenue des Minéraux
+Avenue des Perce-Neige
+Avenue des Peupliers
+Avenue des Pléiades
+Avenue des Princes
+Avenue des Renoncules
+Avenue des Sorbiers
+Avenue des Spirées
+Avenue des Tarins
+Avenue des Violettes
+Avenue Désiré Yernaux
+Avenue du 13ème Tirailleurs
+Avenue du Baleau
+Avenue du Beau Champ
+Avenue du Belloy
+Avenue du Belvédère
+Avenue du Centre Sportif
+Avenue du Champ de Courses
+Avenue du Champ des Monts
+Avenue du Clos
+Avenue du Cocher
+Avenue du Domaine
+Avenue du Douaire
+Avenue du Four à Briques
+Avenue du Frêne
+Avenue du Guéret
+Avenue du Ménétrier
+Avenue du Mistral
+Avenue du Panorama
+Avenue du Parc
+Avenue du Piriat
+Avenue du Robinier
+Avenue du Ruisseau
+Avenue du Ruisseau du Godru
+Avenue du Seigle
+Avenue du Tendeur
+Avenue Duc de Corswarem-Looz
+Avenue Duc Godefroid Ier
+Avenue Duc Henri de Brabant
+Avenue Duc Jean Ier
+Avenue Duc Wenceslas
+Avenue Duchesse de Lorraine
+Avenue Duchesse Jeanne
+Avenue Dumas
+Avenue Edison
+Avenue Eiffel
+Avenue Einstein
+Avenue Emile Verhaeren
+Avenue Félicien Rops
+Avenue Fleming
+Avenue Fond des Cloches
+Avenue Franklin
+Avenue Galilée
+Avenue Georgette
+Avenue Henri Lepage
+Avenue James Ensor
+Avenue Lavoisier
+Avenue Léonard de Vinci
+Avenue Louis Aragon
+Avenue Marcel Pagnol
+Avenue Maréchal de Luxembourg
+Avenue Marie Curie
+Avenue Marie de Hongrie
+Avenue Marivaux
+Avenue Maupassant
+Avenue Maurice Carême
+Avenue Maurice Maeterlinck
+Avenue Mercator
+Avenue Mirabeau
+Avenue Molière
+Avenue Montesquieu
+Avenue Newton
+Avenue Nobel
+Avenue Notre-Dame
+Avenue Pascal
+Avenue Pasteur
+Avenue Paul Claudel
+Avenue Paul de Fierlant
+Avenue Paul Verlaine
+Avenue Philibert Marschouw
+Avenue Philippe le Bon
+Avenue Prince de Vaudémont
+Avenue Procession aux Reliques
+Avenue Rabelais
+Avenue Racine
+Avenue Reine Astrid
+Avenue René Magritte
+Avenue Sabin
+Avenue Saint-Job
+Avenue Seigneurie de Spontin
+Avenue Seigneurie de Walhain
+Avenue Solvay
+Avenue Thomas Lopez
+Avenue Vanpée
+Avenue Vésale
+Avenue Victor Hugo
+Avenue Voltaire
+Avenue Zénobe Gramme
+Barrière du Point du Jour
+Bastion du Chapeau de Curé
+Bois de Laurensart
+Bois du Manil
+Boulevard de l'Europe
+Bruyère du Faya
+Camp Romain
+Ch. de la Cense aux Clochetons
+Champ des Fontaines
+Champ du Haut
+Chaussée Château de la Bawette
+Chaussée de Bruxelles
+Chaussée de Huy
+Chaussée de la Drôme
+Chaussée de la Garonne
+Chaussée de la Gironde
+Chaussée de la Lasne
+Chaussée de la Loire
+Chaussée de la Noire Espine
+Chaussée de la Saône
+Chaussée de la Schindelle
+Chaussée de la Seine
+Chaussée de la Verte Voie
+Chaussée de la Villa Romaine
+Chaussée de l'Herbatte
+Chaussée de l'Hosté
+Chaussée de l'Orangerie
+Chaussée de Louvain
+Chaussée de Namur
+Chaussée de Terlaenen
+Chaussée des Aduatiques
+Chaussée des Atrébates
+Chaussée des Celtes
+Chaussée des Cerises
+Chaussée des Collines
+Chaussée des Eburons
+Chaussée des Francs
+Chaussée des Gaulois
+Chaussée des Nerviens
+Chaussée des Taxandres
+Chaussée des Vignes
+Chaussée d'Ottenbourg
+Chaussée du Bois de Laurensart
+Chaussée du Culot
+Chaussée du Longchamp
+Chaussée du Rhône
+Chaussée du Tilleul
+Chemin Champ de la Bawette
+Chemin de Bierges
+Chemin de Bourgeois
+Chemin de la Commanderie
+Chemin de la Ferme des Morts
+Chemin de la Justice
+Chemin de la Malle-Poste
+Chemin de la Sucrerie
+Chemin de Lauzelle
+Chemin de l'Enclos
+Chemin de Louvranges
+Chemin de Messe
+Chemin de Rofessart
+Chemin de Rosières
+Chemin de Tombeek à Bilande
+Chemin de Vieusart
+Chemin des Bruyères
+Chemin des Charrons
+Chemin des Coyautes
+Chemin des Crisnaires
+Chemin des Flamands
+Chemin des Iris
+Chemin des Maréchaux
+Chemin des Moissonneurs
+Chemin des Pigeons
+Chemin des Sapins
+Chemin des Tourterelles
+Chemin du Borgendael
+Chemin du Cygne
+Chemin du Fletry
+Chemin du Forgeron
+Chemin du Hameau
+Chemin du Jokey
+Chemin du Pauvre Diable
+Chemin du Pélerin
+Chemin du Pirroy
+Chemin du Plagniau
+Chemin du Ry
+Chemin du Seucha
+Chemin du Stocquoy
+Chemin du Temple
+Chemin du Try
+Chemin du Vicinal
+Chemin Fond Noël
+Chemin Fond Noël - Converserie
+Chemin Fontaine del Turc
+Chemin Hallaux
+Clos de l'Automne
+Clos des Bergeronnettes
+Clos des Cytises
+Clos des Eclaireurs
+Clos des Pervenches
+Clos des Pins Sylvestres
+Clos des Primevères
+Clos des Semeurs
+Clos des Seringas
+Clos des Véchaux
+Clos du Barivaux
+Clos du Bouval
+Clos du Haras
+Clos du Paradis
+Clos du Printemps
+Clos du Relais
+Clos du Renisart
+Clos du Verger
+Clos du Vicinal
+Clos Vanasse
+Courte rue Boisacq
+Courte rue des Fontaines
+Courte rue du Béguinage
+Courte rue du Rivage
+Courte rue du Stofé
+Domaine de la Héronnière
+Drève de l'Hostellerie
+Drève de Stadt
+Drève des Burgondes
+Drève des Trévires
+Fonds des Mays
+Galerie des Carmes
+Impasse Calongette
+Impasse Charles Jaumotte
+Impasse des Clarisses
+Impasse des Récollets
+Impasse des Tanneries
+Impasse des Warlandes
+Impasse du Cordonnier
+Impasse Fleurie
+Impasse Joseph Mathieu
+Impasse Sainte-Anne
+Laie aux Biches
+Laie aux Cerfs
+Laie aux Chevrettes
+Laie aux Chevreuils
+Laie aux Daguets
+Laie aux Daims
+Laie aux Faons
+Laie aux Faucons
+Laie aux Sangliers
+Laie de la Chasse
+Laie de la Traque
+Laie du Goupil
+Laie du Lapereau
+Laie du Veneur
+Layon de la Bécasse
+Layon de la Belette
+Layon des Mouflons
+Le Pachis
+Les Bruyères
+Montagne d'Aisemont
+Montagne du Godru
+Parc des Saules
+Parc Saint-Job
+Parking de la Fabrique
+Parking de la Petite Belle Voie
+Parking de la Sucrerie
+Parking de l'Usine
+Parking des Carabiniers
+Parking des Carmes
+Parking des Fontaines
+Parking du Pont-Saint-Jean
+Parking du Presbytère
+Parking du Stade
+Place Albert 1er
+Place Alphonse Bosch
+Place Cardinal Mercier
+Place de la Constellation
+Place de la Cure
+Place de la Loriette
+Place de l'Hôtel de Ville
+Place des Artisans
+Place des Carmes
+Place des Tuileries
+Place du Brabant wallon
+Place du Progrès
+Place Henri Berger
+Place Polydore Beaufaux
+Place Verte
+Plaine du Bouclier
+Pont des Amours
+Pont des Fabriques
+Pont du Christ
+Pont du Rivage
+Pont Neuf
+Pré des Querelles
+Quai aux Huîtres
+Quai des Tanneries
+Quai du Trompette
+Résidence Aigue-Marine
+Résidence Altaïr
+Résidence Améthyste
+Résidence Andromède
+Résidence Bételgeuse
+Résidence Cassiopée
+Résidence de la Lesse
+Résidence de la Lyre
+Résidence de la Sambre
+Résidence de la Semois
+Résidence de la Vesdre
+Résidence de l'Aisne
+Résidence de l'Amblève
+Résidence de l'Ourthe
+Résidence Diamant
+Résidence du Cygne
+Résidence du Sagittaire
+Résidence Emeraude
+Résidence Jupiter
+Résidence Neptune
+Résidence Onyx
+Résidence Opale
+Résidence Orion
+Résidence Pluton
+Résidence Rubis
+Résidence Saphir
+Résidence Saturne
+Résidence Topaze
+Résidence Turquoise
+Rive Gauche de la Dyle
+Rond-Point de la Liberté
+Route de Rixensart
+Rue Achille Bauduin
+Rue Acreman
+Rue Adelin Colon
+Rue Antoine André
+Rue Arthur Hardy
+Rue aux Loups
+Rue Barbier
+Rue Barrière Moye
+Rue Benoit Bohy
+Rue Biernaux
+Rue Caule
+Rue Cense de Flandre
+Rue Cerisier d'Haine
+Rue Champêtre
+Rue Chapelle Sainte-Elisabeth
+Rue Charles Jaumotte
+Rue Charles Sambon
+Rue Constant Deraedt
+Rue Constant Legrève
+Rue Cour Boisacq
+Rue d'Angoussart
+Rue de Bruxelles
+Rue de Champles
+Rue de Flandre
+Rue de Genval
+Rue de Grandsart
+Rue de Grimohaye
+Rue de la Carrière
+Rue de la Closière
+Rue de la Corderie
+Rue de la Couronne
+Rue de la Cure
+Rue de la Dyle
+Rue de la Fabrique
+Rue de la Haie
+Rue de la Limite
+Rue de la Monnaie
+Rue de la Roche
+Rue de la Scavée
+Rue de la Source
+Rue de la Station
+Rue de la Terrienne
+Rue de la Wastinne
+Rue de l'Amitié
+Rue de l'Eglise
+Rue de l'Ermitage
+Rue de l'Escaille
+Rue de l'Eté
+Rue de l'Etoile
+Rue de l'Hiver
+Rue de l'Hôtel
+Rue de l'Industrie
+Rue de l'Usine
+Rue de Moriensart
+Rue de Namur
+Rue de Nivelles
+Rue de Rofessart
+Rue de Rosières
+Rue de Wavre
+Rue Demaret
+Rue des Bleuets
+Rue des Brasseries
+Rue des Carabiniers
+Rue des Carmes
+Rue des Combattants
+Rue des Commones
+Rue des Coquelicots
+Rue des Croix du Feu
+Rue des Drapiers
+Rue des Ecoles
+Rue des Etourneaux
+Rue des Fontaines
+Rue des Genêts
+Rue des Jardins
+Rue des Liniers
+Rue des Mélèzes
+Rue des Merciers
+Rue des Prés
+Rue des Quatre Chemins
+Rue des Ramiers
+Rue des Saisons
+Rue des Saussalles
+Rue des Templiers
+Rue des Toiliers
+Rue des Vanniers
+Rue des Volontaires
+Rue Dolimont
+Rue du Béguinage
+Rue du Blanc Try
+Rue du Bois
+Rue du Bois de Beumont
+Rue du Bois des Carmes
+Rue du Bois l'Abbé
+Rue du Bois Wilmet
+Rue du Bon Bateau
+Rue du Calvaire
+Rue du Château d'Eau
+Rue du Chemin de Fer
+Rue du Cimetière
+Rue du Commerce
+Rue du Fond Collart
+Rue du Fond des Mays
+Rue du Grand Cortil
+Rue du Gravier
+Rue du Manège
+Rue du Manil
+Rue du Meunier
+Rue du Moulin
+Rue du Moulin à Eau
+Rue du Moulin à Vent
+Rue du Petit Sart
+Rue du Poilu
+Rue du Pont du Christ
+Rue du Pont-Saint-Jean
+Rue du Presbytère
+Rue du Progrès
+Rue du Puits
+Rue du Quatre Août
+Rue du Réservoir
+Rue du Rivage
+Rue du Saffetiau
+Rue du Sol
+Rue du Souverain
+Rue du Tilleul
+Rue du Tir
+Rue du Vieux Chemin
+Rue du Voyageur
+Rue Edmond Laffineur
+Rue Elie Legrève
+Rue Félicien Mosray
+Rue Fleurie
+Rue Florimond Letroye
+Rue Fonds des Chevaux
+Rue Géry Everaerts
+Rue Guillaume Malcorps
+Rue Haute
+Rue Hubin
+Rue Jadot
+Rue Joseph Dechamps
+Rue Joseph Francis
+Rue Joseph Joppart
+Rue Joseph Mathieu
+Rue Joseph Mathy
+Rue Joseph Sneessens
+Rue Joseph Wauters
+Rue Joséphine Rauscent
+Rue Lambert Fortune
+Rue Larmoyer
+Rue Léon Deladrière
+Rue Lucien Goossens
+Rue Marc Brison
+Rue Morimont
+Rue Provinciale
+Rue René Jurdant
+Rue Sainte-Anne
+Rue Sainte-Reine
+Rue Saint-Pierre
+Rue Saint-Roch
+Rue Saint-Sébastien
+Rue Sambrée
+Rue Théophile Piat
+Rue Victor Van Grootven
+Ruelle A l'Buse
+Ruelle aux Olives
+Ruelle de la Blanchisserie
+Ruelle des Scailteux
+Ruelle des Vieux Fossés
+Ruelle du Coulant d'Eau
+Ruelle du Nord
+Ruelle du Pré de Wildre
+Ruelle du Rivage
+Ruelle Fleurie
+Ruelle Gare de Basse-Wavre
+Ruelle Nuit et Jour
+Ruelle Payau
+Scavée de la Carrière
+Scavée du Cantonnier
+Sent de la Femme à la Rose
+Sent des Mystères de l'Horizon
+Sente de Morsaint
+Sente des 24 Hêtres
+Sente des Chardonnerets
+Sente des Pinsons
+Sente des Sansonnets
+Sente des Serins
+Sente des Sittelles
+Sente des Verdiers
+Sente du Bois Colette
+Sente du Crépuscule
+Sente du Piriat
+Sentier Berger
+Sentier de la Princesse
+Sentier de la Rive Gauche
+Sentier de l'Arbre de la Liberté
+Sentier des Baleaux
+Sentier des Charrons
+Sentier des Crocus
+Sentier des Fontaines
+Sentier des Hirondelles
+Sentier des Huit Bonniers
+Sentier des Muguets
+Sentier des Perdrix
+Sentier des Roitelets
+Sentier du Bois Michot
+Sentier du Bosquet
+Sentier du Buchet
+Sentier du Douaire
+Sentier du Grand Cortil
+Sentier du Hameau
+Sentier du Martineau
+Sentier du Nuage Blanc
+Sentier du Poinçonneur
+Sentier du Point du Jour
+Sentier du Postillon
+Sentier du Premier Fond
+Sentier du Preux
+Sentier du Roncier
+Sentier du Tennis
+Sentier du Traquet
+Sentier du Trubeche
+Sentier Laurent
+Sentier Laurent Facq
+Sentier Leroy
+Sentier Pré des Graisses
+Sentier Prince Cavalier
+Sentier Ravet
+Sentier Rikir
+Sentier Simonart
+Square Belle Vue
+Square de la Cité
+Square des Bonnetiers
+Square des Sorbiers
+Square Leurquin
+Tienne Berger
+Tienne Casso
+Tienne de Bilande
+Tienne de Coroyee
+Tienne de la Cense
+Tienne de la Framée
+Tienne de la Javeline
+Tienne de la Petite Bilande
+Tienne de la Pichaute
+Tienne de l'Hostellerie
+Tienne des Coteaux
+Tienne des Français
+Tienne des Hayettes
+Tienne du Cepage
+Tienne du Champ des Sarts
+Tienne du Grand Vivier
+Tienne du Hang
+Tienne du Pendu
+Tienne du Sarment
+Tienne du Trait
+Tienne du Trou Madame
+Tienne du Try
+Tienne du Vignoble
+Tienne Hallet
+Tienne Ruwebaut
+Tne du Paradis de la Bawette
+Trèfle des Balançoires
+Trou du Renard
+Try de Champles
+Ven. Grand Bon Dieu de Pitié
+Venelle aux Bouleaux
+Venelle aux Cailloux
+Venelle aux Cyprès
+Venelle aux Epicéas
+Venelle aux Ifs
+Venelle aux Thuyas
+Venelle Bruyère Sainte-Anne
+Venelle Charlanet
+Venelle de la Cavalerie Légère
+Venelle de la Futaie
+Venelle de la Mainmorte
+Venelle de la Ramée
+Venelle de la Réserve
+Venelle de l'Empereur
+Venelle de l'Infanterie
+Venelle de l'Octroi
+Venelle de Sart
+Venelle de Terlongval
+Venelle des Acers
+Venelle des Amandiers
+Venelle des Buissons
+Venelle des Cèdres
+Venelle des Charmes
+Venelle des Châtaigniers
+Venelle des Chauwères
+Venelle des Dragons
+Venelle des Genévriers
+Venelle des Grognards
+Venelle des Hussards
+Venelle des Lanciers
+Venelle des Lauriers
+Venelle des Marronniers
+Venelle des Merisiers
+Venelle des Noisetiers
+Venelle des Noyers
+Venelle des Pêchers
+Venelle des Platanes
+Venelle des Poiriers
+Venelle des Pommiers
+Venelle des Préas
+Venelle des Pruniers
+Venelle des Prussiens
+Venelle des Voltigeurs
+Venelle du Bois de la Pierre
+Venelle du Bois de Saras
+Venelle du Bois de Villers
+Venelle du Pré Joli
+Venelle du Rond Bois
+Venelle du Tribut
+Venelle du Val
+Venelle Gaspard
+Venelle Grand Bon Dieu du Tour
+Venelle Notre-Dame des Champs
+Vieux Chemin du Poète
+Voie de la Frêneraie
+Voie des Chasseurs à Cheval
+Voie des Cuirassiers
+Voie des Quatre Sapins
+Voie du Maréchal Ney
+Voie du Tram
+Voie Général Blücher
+Voie Maréchal Gérard
+Voie Maréchal Grouchy

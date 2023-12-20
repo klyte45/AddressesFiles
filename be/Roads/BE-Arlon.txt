@@ -1,0 +1,422 @@
+A-Gillen
+a-Kreides
+Alewee
+Am Bommert
+Am Pad
+Am-Eck
+Am-Pooll
+An-der-Hiel
+avenue de la Cavalerie
+Avenue de la Gare
+Avenue de Longwy
+Avenue de Luxembourg
+avenue de Mersch
+avenue de Pforzheim
+Avenue du 10e-de-Ligne
+avenue du Bois-d'Arlon
+Avenue du Galgenberg
+Avenue du Général-Patton
+Avenue Jean-Baptiste-Nothomb
+Avenue Numa-Ensch-Tesch
+Avenue Victor-Tesch
+Beemerchen
+Beim Weyer
+Birel
+Burewee
+camp Général-Bastin
+Carrefour de la Spëtz
+Carrefour du Knäppchen
+Caserne Callemeyn
+Ch de la Grübermülhe
+ch de la Rentertkapell
+chaussée Romaine
+chem. du Jongebësch
+Chemin de Clairefontaine
+chemin de Dèle
+chemin de Guirsch
+chemin de Hovelange
+chemin de la Forêt
+chemin de la Hart
+chemin de Messancy
+chemin de Pallen
+chemin de Trèves
+Chemin de Weyler
+Chemin des Allemands
+Chemin des Espagnols
+chemin des Glaneurs
+Chemin des Marmottes
+chemin des Mines
+Chemin du Bois-des-Paresseux
+chemin du Glissisbour
+chemin du Hielert
+Chemin du Peiffeschoff
+chemin du Piélemrot
+Clos Roland Ensch
+drève de l'Arc-en-Ciel
+Drève des Espagnols
+Drève du Moulin Lampach
+Elterwee
+Etangs-de-Bresse
+Fahrengrund
+Ferme-des-Loups
+Ferme-des-Mouches
+Ferme-du-Bois-d'Arlon
+Friddericht
+Grand-Place
+Grand-Rue
+Grübermühle
+Heiderwee
+impasse de la Forge
+Impasse de la Porte-Neuve
+Impasse du Musée
+Kirchberg
+La Clé-des-Champs
+la montée des Pierrots
+Läiperwee
+lotissement Boldair
+Maison-Blanche
+Marché-aux-Légumes
+Markewee
+Mauvais-Passage
+Neiewee
+Parc de l'Hydrion
+Parc des Expositions
+Petite-Rue-des-Remparts
+Petite-Rue-Porte-Neuve
+Place Camille-Cerf
+place de l'Eglise
+Place de l'Yser
+Place des Chasseurs-Ardennais
+Place des Fusillés
+Place Didier
+Place du Docteur-Hollenfeltz
+Place du Grand Luxembourg
+Place du Lieutenant Callemeyn
+Place Emile Lambert
+Place Léopold
+Place Schalbert
+r de la Bataille d'Arlon
+r de la Petite-Gaichel
+r. d'Autelhaut
+r. de Kleinbettingen
+r. de la Gendarmerie
+r. de la Halte
+r. de la Hëtt
+r.du Château-Barbanson
+r.du Hämmelsmarsch
+r.Jean-Martin-Tschoffen
+Rosenberg
+route de Bardenbourg
+route de Bastogne
+route de Bouillon
+route de Diekirch
+route de Heckbous
+route de La Gaichel
+route de Longwy
+Route de Luxembourg
+route de Neufchâteau
+route de Virton
+route d'Etalle
+route du Hirtzenberg
+Rue Albert Jamot
+Rue Albert-Goffaux
+rue Albert-Henckels
+rue Basse
+Rue Bois du Seigneur
+Rue Busleyden
+rue Claude Berg
+Rue d'Alba
+rue d'Arlon
+rue de Barnich
+Rue de Bastogne
+rue de Beckerich
+rue de Berlaymont
+Rue de Bitburg
+rue de Buvange
+Rue de Clairefontaine
+Rue de Diekirch
+rue de Drayton
+Rue de Frassem
+rue de Freylange
+rue de Grass
+rue de Habergy
+rue de Hachy
+rue de Hayange
+Rue de la Banque
+rue de la Barrière
+rue de la Beier
+rue de la Belle-Vue
+rue de la Bick
+rue de la Biff
+Rue de la Caserne
+rue de la Chapelle
+Rue de la Concorde
+rue de la Côte-Rouge
+rue de la Cova
+rue de la Dîme
+rue de la Follmillen
+rue de la Fontaine
+rue de la Futaie
+Rue de la Gaume
+Rue de la Grand-Place
+rue de la Huuscht
+rue de la Lance
+rue de la Mardelle
+Rue de la Meuse
+rue de la Montagne
+Rue de la Moselle
+rue de la Papeterie
+rue de la Platinerie
+Rue de la Porte-Neuve
+Rue de la Poste
+rue de la Posterie
+Rue de la Promenade
+rue de la Rausch
+rue de la Sablière
+Rue de la Sambre
+Rue de la Sapinière
+rue de la Schlaus
+rue de la Scierie
+Rue de la Semois
+rue de la Source
+rue de la Station
+Rue de la Synagogue
+rue de la Vallée
+Rue de la Vierge-Noire
+Rue de la Vire
+Rue de l'Abattoir
+rue de Lagland
+Rue de l'Alzette
+rue de Lamicht
+Rue de l'Amiral André Schlim
+rue de l'Aspérule
+rue de l'Attert
+rue de l'Eau
+rue de l'Ecole
+rue de l'Eglise
+rue de l'Eifel
+Rue de l'Eisch
+rue de l'Eperon
+Rue de l'Esplanade
+Rue de l'Europe
+rue de l'Harmonie
+Rue de l'Hydrion
+Rue de l'Infanterie
+rue de Lorraine
+rue de Lottert
+rue de l'Union
+rue de Marienthal
+rue de Meix-le-Tige
+rue de Metzert
+Rue de Neufchâteau
+Rue de Provence
+Rue de Rédange
+Rue de Saint-Dié
+Rue de Schoppach
+Rue de Sesselich
+Rue de Seymerich
+rue de Stehnen
+rue de Steinfort
+rue de Sterpenich
+rue de Stockem
+rue de Thiaumont
+Rue de Toernich
+Rue de Viville
+Rue de Waltzing
+rue de Wolkrange
+rue d'Eischen
+Rue des Acacias
+rue des Ateliers
+rue des Aubépines
+Rue des Blancs Prés
+Rue des Bleuets
+rue des Blindés
+Rue des Bouleaux
+rue des Bruyères
+Rue des Buissons
+Rue des Capucins
+Rue des Carmes
+Rue des Cerisiers
+rue des Champs
+rue des Chasseurs-Ardennais
+rue des Cheminots
+Rue des Chênes
+Rue des Croix-du-Feu
+Rue des Déportés
+Rue des Deux-Luxembourg
+rue des Ecureuils
+Rue des Eglantines
+Rue des Espagnols
+rue des Essarts
+rue des Etangs
+Rue des Faubourgs
+rue des Fermes
+rue des Forgerons
+rue des Fours-à-Chaux
+Rue des Framboisiers
+rue des Frênes
+Rue des Genêts
+Rue des Glycines
+Rue des Haies
+Rue des Hêtres
+rue des Jardins
+Rue des Lilas
+Rue des Martyrs
+Rue des Mélèzes
+Rue des Muguets
+Rue des Peupliers
+rue des Quatre-Vents
+Rue des Remparts
+Rue des Roseaux
+Rue des Roses
+Rue des Tanneries
+Rue des Thermes-Romains
+rue des Tilleuls
+rue des Tourbières
+Rue des Violettes
+Rue du 25-Août
+rue du Bambësch
+Rue du Bastion
+rue du Beau-Site
+rue du Beynert
+rue du Bois
+rue du Bourg
+rue du Brill
+rue du Calvaire
+rue du Camp
+rue du Canal
+Rue du Casino
+rue du Castel
+rue du Centre
+rue du Château
+rue du Château-d'Eau
+rue du Cimetière
+rue du Clocher
+rue du Cloître
+Rue du Dispensaire
+rue du Domaine
+rue du Duché
+Rue du Gazomètre
+rue du Général Beaulieu
+rue du Général-Jourdan
+Rue du Général-Molitor
+rue du Goldberg
+Rue du Gymnase
+rue du Joli-Bois
+Rue du Lavoir
+rue du Lingenthal
+rue du Lycia
+rue du Maitrank
+rue du Marais
+Rue du Marché-au-Beurre
+rue du Marché-aux-Fleurs
+Rue du Marquisat
+Rue du Meunier
+rue du Moulin
+rue du Moulin-à-Huile
+Rue du Moulin-Lampach
+Rue du Musée
+rue du Muselbur
+Rue du Palais-de-Justice
+rue du Pannebourg
+rue du Panorama
+Rue du Parc
+rue du Point-d'Arrêt
+rue du Ponceau
+rue du Pont
+Rue du Pont-Levis
+rue du Potier
+rue du Presbytère
+rue du Promberg
+rue du Rhin
+rue du Ruisseau
+rue du Steinchen
+Rue du Temple
+Rue du Ton
+rue du Tram
+Rue du Transept
+rue du Vallon
+Rue du Vélodrome
+Rue du Verger
+rue du Vicinal
+rue du Vivat
+Rue du Vivier
+Rue du Wäschbour
+rue d'Udange
+Rue Emile Tandel
+Rue Ermesinde
+Rue Etienne-Lenoir
+Rue Eugène Ysaye
+Rue Floréal
+Rue François-Boudart
+Rue François-Bovesse
+Rue Francq
+Rue Frédérique Lenger
+rue Georges-Prat
+Rue Godefroid-Kurth
+Rue Habaru
+rue Halbardier
+rue Haute
+rue Henri Le Blondel
+Rue Henri-Busch
+rue Henri-Elsen
+rue Henri-Gaderius
+rue Hollefra
+rue Huart-d'Autel
+rue Jean-de-Feller
+Rue Jean-Koch
+Rue Jean-l'Aveugle
+Rue Joseph-Netzer
+Rue Léon-Castilhon
+Rue Léopold
+rue Marie-Delcourt
+Rue Maurice-Bricart
+Rue Michel-Hamélius
+Rue Nicolas-Berger
+rue Nicolas-Schnock
+rue Nouvelle
+Rue Paul-Reuter
+Rue Pietro-Ferrero
+rue Saint Valentin
+Rue Saint-Bernard
+rue Saint-Denis
+Rue Saint-Donat
+rue Sainte-Aldegonde
+Rue Sainte-Croix
+rue Saint-Fiacre
+rue Saint-Hubert
+Rue Saint-Jean
+rue Saint-Laurent
+rue Saint-Mathias
+rue Saint-Nicolas
+rue Saint-Paulin
+rue Saint-Servais
+Rue Scheuer
+Rue Seyler
+Rue Sonnetty
+Rue Vercingétorix
+rue Victor Tedesco
+Rue Zénobe-Gramme
+Ruelle Darche
+ruelle de la Fiels
+Ruelle des Jardins
+Ruelle Schentzy
+Seylerhoff
+Site Douanier Autoroute E42-E411
+Square Albert-1er
+Square Allende
+Square de Drayton
+Square de la Lys
+square de l'Etrier
+Square du Hunnebour
+Square Elisabeth
+Square Jean-XXIII
+Stehnen
+vallée des Trois-Moulins
+Val-Vert
+venelle du Rhin
+Via Sesmara
+Virée du Renard
+Zone artisanale
+Zone industrielle
+ZONING INDUSTRIEL DE WEYLER
