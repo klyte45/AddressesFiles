@@ -1,0 +1,10 @@
+<RoadPrefixSetting>
+  <FallbackRule MinSpeedKmh="0" MaxSpeedKmh="0" RequiredFlags="0" ForbiddenFlags="0" FullBridge="0">{name}</FallbackRule>
+  <AdditionalRules>
+    <AdrRoadPrefixRule MinSpeedKmh="0" MaxSpeedKmh="35" RequiredFlags="1" ForbiddenFlags="0" FullBridge="0">{name}  Avenue</AdrRoadPrefixRule>
+    <AdrRoadPrefixRule MinSpeedKmh="36" MaxSpeedKmh="50" RequiredFlags="1" ForbiddenFlags="0" FullBridge="0">{name} Street</AdrRoadPrefixRule>
+    <AdrRoadPrefixRule MinSpeedKmh="51" MaxSpeedKmh="75" RequiredFlags="1" ForbiddenFlags="0" FullBridge="0">{name} Road</AdrRoadPrefixRule>
+    <AdrRoadPrefixRule MinSpeedKmh="76" MaxSpeedKmh="110" RequiredFlags="18" ForbiddenFlags="0" FullBridge="0">{name} Expressway</AdrRoadPrefixRule>
+    <AdrRoadPrefixRule MinSpeedKmh="76" MaxSpeedKmh="105" RequiredFlags="16" ForbiddenFlags="0" FullBridge="0">{name} State Highway</AdrRoadPrefixRule>
+  </AdditionalRules>
+</RoadPrefixSetting>
