@@ -1,0 +1,538 @@
+na Mainistreach
+Ailesbury
+Amiens
+Mon
+Anna Theas
+Bhagóid
+Chois Bá
+an Droichid
+Chéipil
+Charraig Bhreac
+Chathal Brugha
+Cluaidh
+Faiche an Choláiste
+Cúirt Crampton
+an Dáma
+Dhásain
+Dorset
+Dhroim Conrach
+an Phoiirt Thoir
+Eccles
+Íle
+Sheamlas an Éisc
+Cearnóg Mhic Liam
+na Toinne
+Ghairdinéir
+Gilford
+Grafton
+Fhearchair
+Árdán Fhearchair
+Henrietta
+Anraí
+Páirc Hoirbeaird
+Hoirbeaird
+Hoirbeaird
+Heytesbury
+Bhinn Éadair
+Chill Dara
+Líosain
+Mhaoilbhríde
+Mhuire Mhaith
+Mhuirfean
+Cearnóg Mhuirfean
+Mhuirfean
+Theach Laighean
+na Mhóta Íocht
+Cearnóg Mhuinseo
+an Náis
+Thobar Phádraig
+Ascaill an Droichid Nua
+Cuarbhóthar Thuaidh
+Mór Seóirse Thuaidh
+na Trá
+Nutley
+Uí Chonaill
+Ascaill na Páirce
+na Parlaiminte
+Cearnóg Parnell
+Parnell
+an Phiarsaigh
+Pheambróg
+Raglan
+Eoin Thoir
+Faiche Stiabhna
+Ascaill Dhumhach Thrá
+Sheáin Mhic Dhiarmada
+Ascaill na Lúb
+An Cuarbhóthar Theas
+Mhic Liam Theas
+Stigh Lorgan
+Ascaill Pharáid Sydney
+Talbot
+Barra an Teampaill
+Teach Mealóg
+Baile an Teampaill
+Tritonville
+San Werburgh
+Rae an Iarthair
+an Fhíona
+Aire
+Aireamh
+Altóir
+Araí
+Beatha
+Breitheamh
+Cistin
+Cleas
+Cnámh
+Cónra
+Cré
+Cruicéad
+Cú
+Cuisle
+Dair
+Dún
+Eas
+Eorna
+Féicheamh
+Gabha
+Méid
+Rámh
+Ráth
+Réal
+Ros
+Srón
+Talamh
+Úr
+Agh
+Aicearra
+Ainfe
+Ainm
+Airne
+Aiste
+Aistear
+Altra
+Anam
+Ancaire
+Anfa
+Ara
+Árchú
+Ardtalamh
+Bachall
+Bonntáiste
+Breall
+Breatimeacht
+Breatnach
+Briathar
+Buntáiste
+Caile
+Casúr
+Cathach
+Ceacht
+Céachta
+Céilí
+Cneas
+Cnó
+Coinicéar
+Coláiste
+Colpa
+Colptha
+Cú
+Cuileann
+Déad
+Déardaoin
+Dobharchú
+Donn
+Dóthain
+Eabhar
+Eachlach
+Earra
+Éide
+Éigean
+Éigint
+Eilifint
+Feabhra
+Feac
+Fraoch
+Frog
+Gabhar
+Gaineamh
+Gal
+Gé
+Giúiré
+Gleann
+Gloine
+Iarsma
+Iasacht
+Imeacht
+Imtheacht
+Inneall
+Íoc
+Iocht
+Iomaire
+Íomhá
+Leamhnacht
+Leann
+Log
+Maidhm
+Maitheas
+Maol
+Masla
+Méar
+Muinchille
+Namhaid
+Oireacht
+Pá
+Pasáiste
+Ré
+Réal
+Reo
+Rith
+Satharn
+Sciath
+Seithe
+Sgiath
+Soilse
+Tábhairne
+Tae
+Talamh
+Talamh an Éisc
+Talamh ard
+Talamh Naofa
+Taobh
+Taoschnó
+Tóibín
+Torann
+Aimsir
+Aisling
+Aoibhneas
+Baile
+Bean an tí
+Beatha
+Blas
+Bó
+Bua
+Cara
+Ceol
+Comhaltas
+Comhar
+Comhluadar
+Craic
+Dáil
+Dathúil
+Dóchas
+Draíocht
+Dúchas
+Éire
+Fadó
+Feis
+Fios
+Flaithiúil or Flaithiúlach
+Foinse
+Gael
+Gaisce
+Inis
+Fáilte
+Leannán
+Meitheal
+Meas
+Misneach
+Muiceanach idir Dhá Sháile
+Pléaráca
+Plámás
+Saoi
+Saoirse
+Scéal
+Sceitimíní
+Sláinte
+Slán
+Sona
+Spleodar
+Suaimhneas
+Taisce
+Taoiseach
+Uachtarán
+Uisce
+Páirc
+Cófra
+Cistin
+Cith
+Seomra
+Carr
+Lána
+Tobar
+Cearc
+Iarsmalann
+Leaba
+Dathlann
+Mála
+Cnoc
+Teachín
+Taiscéal
+Margadh
+Oileán
+Stáisiún
+Céibh
+Fón
+Scoil
+Balla
+Leitir
+Rátaíocht
+Dath
+Iasc
+Capall
+Páirc
+Sráid
+Scéimhlitheoireacht
+Scian
+Bainne
+Saol
+Píosa
+Seomra folctha
+Seachtain
+Cóta
+Leabharlann
+Sliotar
+Dóiteán
+Gloine
+Áit
+Bosca bruscair
+Gluaisrothar
+Bád
+Tine
+Leithreas
+Bróg
+Taithí
+Cás
+Cárta
+Earrach
+Fíon
+Oíche
+Siopa
+Spúnóg
+Súil
+Teilifís
+Tábla
+Sceitimíní
+Cat
+Grúpa
+Saoránach
+Tine cnámh
+Uisce
+Duilleog
+Grá
+Pláta
+Portán
+Fón póca
+Gréasán
+Ríomhaire
+Glas
+Seánra
+Páipéar
+Corp
+Mór
+Tirim
+Slán
+Téagartha
+Tanaí
+Lú
+Fuar
+Milis
+Álainn
+Té
+Gléasta
+Tarraingteach
+Ailleacht
+Uaigneach
+Neamhurchóideach
+Gasta
+Fiáin
+Sruthach
+Dubh
+Leathan
+Foghlaim
+Airde
+Réasúnta
+Uasal
+Searbh
+Fionn
+Leamh
+Glan
+Siúlach
+Pléisiúrtha
+Teo
+Gorm
+Sásta
+Fuair
+Beag
+Úr
+Tiubh
+Ard
+Ciúin
+Léirithe
+Láidir
+Bródúil
+Saibhir
+Glas
+Síochánta
+Deas
+Salach
+Solúbtha
+Suimiúil
+Sláintiúil
+Mac Alasdair
+Mac Alastair
+Mac Alastruim
+Mac Alsandair
+Mac Amhalaí
+Mac Amhalaidh
+Mac Amhalghadha
+Mac Amhalghaidh
+Mac Amhlaoibh
+Mac an Fhailghigh
+Mac Aodhagáin
+Mac Cába
+Mac Cathmhaoil
+Mac Coitir
+Mac Conallaidh
+Mac Eacháin
+Mac Fhirbhisigh
+Mac Giolla Chuda
+Mac Giolla Mhochuda
+Mac Giolla Seanáin
+Mac ind Óclaich
+Mac Íomhair
+Mac Leóid
+Mac Lochlainn
+Mac Oitir
+Mac Ospaic
+Mac Raghnaill
+Mac Rághnaill
+Mac Raonaill
+Mac Ruaidhrí
+Mac Scannláin
+Mac Sitric
+Mac Somhairle
+Mac Suibhne
+Mac Torcaill
+Mag Amhalghadha
+Mag Amhalghaidh
+Mag Íomhair
+Mag Máilin
+Mag Shitric
+Ó an Cháintighe
+Ó Begléighinn
+Ó Brádaigh
+Ó Breisleáin
+Ó Brolaigh
+Ó Cadhla
+Ó Comhaltáin
+Ó Corráin
+Ó Deargáin
+Ó Fearghuis
+Ó Gráda
+Ó hÁdhmaill
+Ó hAichir
+Ó hAnluain
+Ó hArailt
+Ó hEochaidh
+Ó Lachlainn
+Ó Lachtnáin
+Ó Lochlainn
+Ó Lorcáin
+Ó Sé
+Ó Tomhnair
+Ó Tomhnra
+Ó Tomhrair
+Ó Tormadha
+Ó Tormaigh
+Ó Troighthigh
+Bean Mhic Alasdair
+Bean Mhic Alastair
+Bean Mhic Alastruim
+Bean Mhic Alsandair
+Bean Mhic Amhalaí
+Bean Mhic Amhalaidh
+Bean Mhic Amhalghadha
+Bean Mhic Amhalghaidh
+Bean Mhic Amhlaoibh
+Bean Mhic Coitir
+Bean Mhic Íomhair
+Bean Mhic Leóid
+Bean Mhic Oitir
+Bean Mhic Ospaic
+Bean Mhic Raghnaill
+Bean Mhic Rághnaill
+Bean Mhic Raonaill
+Bean Mhic Shitric
+Bean Mhic Somhairle
+Bean Mhig Amhalghadha
+Bean Mhig Amhalghaidh
+Bean Mhig Íomhair
+Bean Mhig Shitric
+Bean Uí Arailt
+Bean Uí Thomhnair
+Bean Uí Thomhnra
+Bean Uí Thomhrair
+Bean Uí Thormadha
+Bean Uí Thormaigh
+Mhic Alasdair
+Mhic Alastair
+Mhic Alastruim
+Mhic Alsandair
+Mhic Amhalaí
+Mhic Amhalaidh
+Mhic Amhalghadha
+Mhic Amhalghaidh
+Mhic Amhlaoibh
+Mhic Coitir
+Mhic Íomhair
+Mhic Leóid
+Mhic Oitir
+Mhic Ospaic
+Mhic Raghnaill
+Mhic Rághnaill
+Mhic Raonaill
+Mhic Shitric
+Mhic Somhairle
+Mhig Amhalghadha
+Mhig Amhalghaidh
+Mhig Íomhair
+Mhig Shitric
+Ní Arailt
+Ní Chianáin
+Ní Thomhnair
+Ní Thomhnra
+Ní Thomhrair
+Ní Thormaigh
+Ní Tormadha
+Nic Alasdair
+Nic Alastair
+Nic Alastruim
+Nic Alsandair
+Nic Amhalaí
+Nic Amhalaidh
+Nic Amhalghadha
+Nic Amhalghaidh
+Nic Amhlaoibh
+Nic Coitir
+Nic Íomhair
+Nic Oitir
+Nic Ospaic
+Nic Raghnaill
+Nic Rághnaill
+Nic Raonaill
+Nic Shitric
+Nic Somhairle
+NicLeóid
+Nig Amhalghadha
+Nig Amhalghaidh
+Nig Íomhair
+Nig Shitric
+Ó hÁdhmaill
+Uí Arailt
+Uí Thomhnair
+Uí Thomhnra
+Uí Thomhrair
+Uí Thormadha
+Uí Thormaigh
