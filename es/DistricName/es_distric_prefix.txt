@@ -1,0 +1,32 @@
+Jd. {0}
+Pq. {0}
+Aldea {0}
+Jd. {0}
+Pq. {0}
+Aldea {0}
+Jd. {0}
+Pq. {0}
+Aldea {0}
+Jd. {0}
+Pq. {0}
+Aldea {0}
+Jd. {0}
+Pq. {0}
+Poblado {0}
+Jd. {0}
+Pq. {0}
+Poblado {0}
+Jd. {0}
+Pq. {0}
+Poblado {0}
+Jd. {0}
+Pq. {0}
+Burgo {0}
+Jd. {0}
+Pq. {0}
+Burgo {0}
+{0}
+{0}
+{0}
+{0}
+Hacienda {0}
